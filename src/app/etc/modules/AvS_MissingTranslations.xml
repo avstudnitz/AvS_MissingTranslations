@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <AvS_MissingTranslations>
+            <active>true</active>
+            <codePool>community</codePool>
+        </AvS_MissingTranslations>
+    </modules>
+</config>

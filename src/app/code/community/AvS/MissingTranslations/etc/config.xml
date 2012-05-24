@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+
+	<modules>
+		<AvS_MissingTranslations>
+			<version>0.1.0</version>
+		</AvS_MissingTranslations>
+	</modules>
+
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <translate>AvS_MissingTranslations_Model_Translate</translate>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+    <adminhtml>
+        <translate>
+            <modules>
+                <AvS_MissingTranslations>
+                    <files>
+                        <default>AvS_MissingTranslations.csv</default>
+                    </files>
+                </AvS_MissingTranslations>
+            </modules>
+        </translate>
+    </adminhtml>
+</config>

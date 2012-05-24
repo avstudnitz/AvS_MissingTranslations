@@ -1,0 +1,5 @@
+"Missing Translations","Fehlende Übersetzungen"
+"Log Missing Frontend Translations","Fehlende Frontend-Übersetzungen loggen"
+"Log files can be found at var/translation_log/frontend/","Log-Dateien befinden sich unter var/translation_log/frontend/"
+"Log Missing Admin Translations","Fehlende Admin-Übersetzungen loggen"
+"Log files can be found at var/translation_log/adminhtml/","Log-Dateien befinden sich unter var/translation_log/adminhtml/"
