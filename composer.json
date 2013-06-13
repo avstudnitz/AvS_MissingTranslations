@@ -1,0 +1,9 @@
+{
+   "name": "avstudnitz/missing-translations",
+   "type": "magento-module",
+   "description": "Logs translations which are not included in any csv file nor in the database and writes them to csv format",
+   "homepage": "https://github.com/avstudnitz/AvS_MissingTranslations",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "dev-master"
+   }
+}
